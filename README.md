@@ -1,60 +1,46 @@
-<div align="center">
+# Hi, I'm Alan Xue
 
-# Hi, I'm Alan 👋
+Computer Science student at the University of Toronto building backend and
+full-stack systems with Java, Spring Boot, TypeScript, and PostgreSQL.
 
-Full-stack developer building secure, practical, and user-focused web applications.
+I'm currently seeking SDE internship opportunities.
 
-[Personal Website](https://www.alanxue.website/) · [MySend](https://mysend.app)
+[Portfolio](https://www.alanxue.website/) ·
+[Email](mailto:alan.xue@mail.utoronto.ca) ·
+[MySend live app](https://mysend.app)
 
-</div>
+## Selected work
 
-## About me
+### [MySend](https://github.com/alan746/MySend) — [Live app](https://mysend.app)
 
-- Interested in full-stack product development, application security, and clean software architecture.
-- Turning product ideas into deployed, production-ready applications.
+A production-deployed workspace for sharing text and files through temporary,
+self-expiring rooms.
 
-## Featured project
+- Designed and built the React interface, Spring Boot API, PostgreSQL data
+  model, temporary file storage, and automated deployment pipeline.
+- Implemented account and room authorization, email verification, rate limits,
+  optimistic clipboard updates, storage quotas, and retry-safe lifecycle cleanup.
+- Added automated web checks, Java tests, and independent Docker builds for both
+  services with GitHub Actions.
 
-### [MySend](https://mysend.app)
+`Java 21` · `Spring Boot` · `TypeScript` · `React` · `PostgreSQL` · `Flyway` ·
+`Docker` · `GitHub Actions` · `Railway`
 
-A convenience-first workspace for instant text and file sharing through temporary, self-expiring rooms.
+### [ScholarMatch](https://github.com/Guancheng-Chen/ScholarMatch)
 
-[Open the live application](https://mysend.app) · [View the source code](https://github.com/alan746/MySend)
+A four-person Java desktop application for discovering research collaborators,
+sharing research opportunities, and messaging mutual matches.
 
-## Tech stack
+- Owned registration, login and logout, email verification, account settings,
+  password changes, verified email changes, and account deletion.
+- Worked across the use-case, interface-adapter, persistence, and Swing UI layers
+  of the project's Clean Architecture.
+- Contributed to a codebase verified by JUnit, Mockito, Checkstyle, and JaCoCo.
 
-**Languages**
+`Java 21` · `Swing` · `Spring Boot` · `PostgreSQL` · `Maven` · `JUnit 5`
 
-![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+## What I'm interested in
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-
-**Backend and data**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-
-**Delivery and tooling**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-## Find me online
-
-- Portfolio: [alanxue.website](https://www.alanxue.website/)
-- MySend: [mysend.app](https://mysend.app)
-- GitHub: [github.com/alan746](https://github.com/alan746)
+- Backend and full-stack product engineering
+- Application security and reliable data lifecycles
+- Clean architecture, testing, CI/CD, and production delivery
