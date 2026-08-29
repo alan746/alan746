@@ -28,8 +28,9 @@ self-expiring rooms.
 
 ### [ScholarMatch](https://github.com/Guancheng-Chen/ScholarMatch)
 
-A four-person Java desktop application for discovering research collaborators,
-sharing research opportunities, and messaging mutual matches.
+A Java desktop application for discovering research collaborators, sharing
+research opportunities, and messaging mutual matches. Built collaboratively by
+a four-person team using Clean Architecture.
 
 - Owned registration, login and logout, email verification, account settings,
   password changes, verified email changes, and account deletion.
