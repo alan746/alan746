@@ -26,7 +26,7 @@ self-expiring rooms.
 `Java 21` · `Spring Boot` · `TypeScript` · `React` · `PostgreSQL` · `Flyway` ·
 `Docker` · `GitHub Actions` · `Railway`
 
-### [ScholarMatch](https://github.com/Guancheng-Chen/ScholarMatch)
+### [ScholarMatch](https://github.com/Guancheng-Chen/ScholarMatch) — [Live site](https://scholarmatch.ca/)
 
 A Java desktop application for discovering research collaborators, sharing
 research opportunities, and messaging mutual matches. Built collaboratively by
