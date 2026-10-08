@@ -3,8 +3,6 @@
 Computer Science student at the University of Toronto building backend and
 full-stack systems with Java, Spring Boot, TypeScript, and PostgreSQL.
 
-I'm currently seeking SDE internship opportunities.
-
 [Portfolio](https://www.alanxue.website/) ·
 [Email](mailto:alan.xue@mail.utoronto.ca) ·
 [MySend live app](https://mysend.app)
