@@ -38,8 +38,10 @@ a four-person team using Clean Architecture.
 
 `Java 21` · `Swing` · `Spring Boot` · `PostgreSQL` · `Maven` · `JUnit 5`
 
-## What I'm interested in
+## More about me
 
-- Backend and full-stack product engineering
-- Application security and reliable data lifecycles
-- Clean architecture, testing, CI/CD, and production delivery
+I'm interested in backend and full-stack product engineering, application
+security, clean architecture, testing, and production delivery. Outside of
+software, I enjoy mathematics, philosophy, Greek mythology, and Latin.
+
+[Explore my personal website →](https://www.alanxue.website/)
