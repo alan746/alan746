@@ -24,7 +24,7 @@ self-expiring rooms.
 `Java 21` · `Spring Boot` · `TypeScript` · `React` · `PostgreSQL` · `Flyway` ·
 `Docker` · `GitHub Actions` · `Railway`
 
-### [VDoc](https://github.com/alan746/vdoc) — [Voice service](https://github.com/alan746/vdoc-server)
+### [VDoc](https://github.com/alan746/vdoc) — [Live site](https://vdoc.ink/)
 
 A voice-first document editor for writing, formatting, and revising personal
 documents, with local autosave and optional authenticated cloud storage.
