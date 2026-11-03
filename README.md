@@ -24,6 +24,22 @@ self-expiring rooms.
 `Java 21` · `Spring Boot` · `TypeScript` · `React` · `PostgreSQL` · `Flyway` ·
 `Docker` · `GitHub Actions` · `Railway`
 
+### [VDoc](https://github.com/alan746/vdoc) — [Voice service](https://github.com/alan746/vdoc-server)
+
+A voice-first document editor for writing, formatting, and revising personal
+documents, with local autosave and optional authenticated cloud storage.
+
+- Built a React and Tiptap editing workspace with rich text, tables, pagination,
+  named versions, DOCX import/export, and PDF printing.
+- Implemented document operations with target validation, revision checks,
+  atomic batches, and turn-specific undo for voice-driven editing.
+- Separated document editing from voice-session services, with short-lived
+  connection grants, session permissions, and automated architecture and
+  integration checks.
+
+`TypeScript` · `React` · `Tiptap` · `IndexedDB` · `PostgreSQL` ·
+`Drizzle` · `Cloudflare Workers` · `Vitest`
+
 ### [ScholarMatch](https://github.com/Guancheng-Chen/ScholarMatch) — [Live site](https://scholarmatch.ca/)
 
 A Java desktop application for discovering research collaborators, sharing
